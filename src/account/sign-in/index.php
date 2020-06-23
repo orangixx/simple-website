@@ -16,6 +16,11 @@
   <link href="index.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Material+Icons&family=Montserrat:wght@600;700&display=swap" rel="stylesheet">
 
+  <meta property="og:title" content="Savi">
+  <meta property="og:site_name" content="Sign in">
+  <meta property="og:description" content="Manage your Savi account.">
+  <meta property="og:image" content="https://cdn.bcow.tk/favicons/savi/android-chrome-512x512.png">
+  <meta property="og:url" content="https://savi.ogxn.xyz/account/sign-in/">
   <meta content=#5e35b1 name=theme-color>
 </head>
 
